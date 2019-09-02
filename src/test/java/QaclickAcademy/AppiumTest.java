@@ -10,5 +10,8 @@ public class AppiumTest {
 	@Test
 	public void Appiumlogout() {
 		System.out.println("Appiumlogout()");
+		System.out.println("Appiumlogout2()");
+		System.out.println("Appiumlogout3()");
+		System.out.println("Appiumlogout4()");
 	}
 }
