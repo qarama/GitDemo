@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2019-08-27T17:36:46Z" finished-at="2019-08-27T17:36:46Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="SeleniumTest.Seleniumlogin()[pri:0, instance:QaclickAcademy.SeleniumTest@73ad2d6]" name="Seleniumlogin" class="QaclickAcademy.SeleniumTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2019-08-27T17:36:46Z" finished-at="2019-08-27T17:36:46Z">
+      <class name="QaclickAcademy.SeleniumTest">
+        <test-method status="PASS" signature="Seleniumlogin()[pri:0, instance:QaclickAcademy.SeleniumTest@73ad2d6]" name="Seleniumlogin" duration-ms="15" started-at="2019-08-27T17:36:46Z" finished-at="2019-08-27T17:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumlogin -->
+        <test-method status="PASS" signature="Seleniumlogout()[pri:0, instance:QaclickAcademy.SeleniumTest@73ad2d6]" name="Seleniumlogout" duration-ms="0" started-at="2019-08-27T17:36:46Z" finished-at="2019-08-27T17:36:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumlogout -->
+      </class> <!-- QaclickAcademy.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

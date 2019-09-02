@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="74" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="AppiumTest.Appiumlogin()[pri:0, instance:QaclickAcademy.AppiumTest@4157f54e]" name="Appiumlogin" class="QaclickAcademy.AppiumTest"/>
+        <method signature="RestAPITest.RestAPIlogin()[pri:0, instance:QaclickAcademy.RestAPITest@90f6bfd]" name="RestAPIlogin" class="QaclickAcademy.RestAPITest"/>
+        <method signature="SeleniumTest.Seleniumlogin()[pri:0, instance:QaclickAcademy.SeleniumTest@47f6473]" name="Seleniumlogin" class="QaclickAcademy.SeleniumTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Command line test" duration-ms="74" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+      <class name="QaclickAcademy.AppiumTest">
+        <test-method status="PASS" signature="Appiumlogin()[pri:0, instance:QaclickAcademy.AppiumTest@4157f54e]" name="Appiumlogin" duration-ms="13" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumlogin -->
+        <test-method status="PASS" signature="Appiumlogout()[pri:0, instance:QaclickAcademy.AppiumTest@4157f54e]" name="Appiumlogout" duration-ms="0" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumlogout -->
+      </class> <!-- QaclickAcademy.AppiumTest -->
+      <class name="QaclickAcademy.SeleniumTest">
+        <test-method status="PASS" signature="Seleniumlogin()[pri:0, instance:QaclickAcademy.SeleniumTest@47f6473]" name="Seleniumlogin" duration-ms="1" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumlogin -->
+        <test-method status="PASS" signature="Seleniumlogout()[pri:0, instance:QaclickAcademy.SeleniumTest@47f6473]" name="Seleniumlogout" duration-ms="0" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumlogout -->
+      </class> <!-- QaclickAcademy.SeleniumTest -->
+      <class name="QaclickAcademy.RestAPITest">
+        <test-method status="PASS" signature="RestAPIlogin()[pri:0, instance:QaclickAcademy.RestAPITest@90f6bfd]" name="RestAPIlogin" duration-ms="0" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIlogin -->
+        <test-method status="PASS" signature="RestAPIlogout()[pri:0, instance:QaclickAcademy.RestAPITest@90f6bfd]" name="RestAPIlogout" duration-ms="0" started-at="2019-08-27T14:50:10Z" finished-at="2019-08-27T14:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIlogout -->
+      </class> <!-- QaclickAcademy.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
