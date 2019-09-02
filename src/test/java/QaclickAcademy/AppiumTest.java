@@ -6,6 +6,9 @@ public class AppiumTest {
 	@Test(groups= {"Smoke"})
 	public void Appiumlogin() {
 		System.out.println("Appiumlogin()");
+		System.out.println("Smoke()");
+		System.out.println("Immediate Action()");
+		
 	}
 	@Test
 	public void Appiumlogout() {
